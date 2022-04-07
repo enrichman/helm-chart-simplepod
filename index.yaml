@@ -1,0 +1,11 @@
+apiVersion: v1
+entries:
+  simplepod:
+  - apiVersion: v2
+    created: "2022-04-07T12:17:34.447229313Z"
+    digest: c9799ad55a584bc9267898ce77fbcc1cda79bbd81a86981ff7a80a8fa11889b0
+    name: simplepod
+    urls:
+    - https://github.com/enrichman/helm-charts/releases/download/simplepod-1.0.1/simplepod-1.0.1.tgz
+    version: 1.0.1
+generated: "2022-04-07T12:17:34.447244413Z"
