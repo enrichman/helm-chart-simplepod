@@ -4,6 +4,27 @@ entries:
   - annotations:
       artifacthub.io/license: Apache-2.0
     apiVersion: v2
+    created: "2022-05-23T15:47:43.694083894Z"
+    description: The custom helm chart for epinio applications to be deployed by
+    digest: 9b7e70f1ca9c1a60dcbf037fab59d7a4e5443d81c806c201f1280b33a72e5882
+    home: https://github.com/epinio/epinio
+    icon: https://raw.githubusercontent.com/epinio/helm-charts/main/assets/epinio.png
+    keywords:
+    - epinio
+    - paas
+    maintainers:
+    - email: team@epinio.io
+      name: SUSE
+    name: epinio-custom-application
+    sources:
+    - https://github.com/epinio/helm-charts
+    type: application
+    urls:
+    - https://github.com/enrichman/helm-charts/releases/download/epinio-custom-application-0.0.2/epinio-custom-application-0.0.2.tgz
+    version: 0.0.2
+  - annotations:
+      artifacthub.io/license: Apache-2.0
+    apiVersion: v2
     created: "2022-05-23T14:10:42.752232464Z"
     description: The custom helm chart for epinio applications to be deployed by
     digest: db4e38d76e9988fbf26e391a771cfa852ab9b3f2f02e57144f96d5788701e249
@@ -44,4 +65,4 @@ entries:
     urls:
     - https://github.com/enrichman/helm-charts/releases/download/simplepod-1.0.1/simplepod-1.0.1.tgz
     version: 1.0.1
-generated: "2022-05-23T14:10:42.752353066Z"
+generated: "2022-05-23T15:47:43.694102694Z"
