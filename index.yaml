@@ -2,6 +2,13 @@ apiVersion: v1
 entries:
   dynamodb-test:
   - apiVersion: v2
+    created: "2022-07-22T09:03:49.083099155Z"
+    digest: 8dee9b661b95260f11521601acb2df0826447ac38d344ab0c9fda8fe533732e2
+    name: dynamodb-test
+    urls:
+    - https://github.com/enrichman/helm-charts/releases/download/dynamodb-test-1.0.1/dynamodb-test-1.0.1.tgz
+    version: 1.0.1
+  - apiVersion: v2
     created: "2022-07-22T08:53:14.824938137Z"
     digest: 3dcedcf24cc956c19ab8efea5fe83f073e0c4791f20ee3e47fa85f3ef2054c8f
     name: dynamodb-test
@@ -73,4 +80,4 @@ entries:
     urls:
     - https://github.com/enrichman/helm-charts/releases/download/simplepod-1.0.1/simplepod-1.0.1.tgz
     version: 1.0.1
-generated: "2022-07-22T08:53:14.824952637Z"
+generated: "2022-07-22T09:03:49.083429259Z"
