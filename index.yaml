@@ -1,5 +1,13 @@
 apiVersion: v1
 entries:
+  dynamodb-test:
+  - apiVersion: v2
+    created: "2022-07-22T08:53:14.824938137Z"
+    digest: 3dcedcf24cc956c19ab8efea5fe83f073e0c4791f20ee3e47fa85f3ef2054c8f
+    name: dynamodb-test
+    urls:
+    - https://github.com/enrichman/helm-charts/releases/download/dynamodb-test-1.0.0/dynamodb-test-1.0.0.tgz
+    version: 1.0.0
   epinio-custom-application:
   - annotations:
       artifacthub.io/license: Apache-2.0
@@ -65,4 +73,4 @@ entries:
     urls:
     - https://github.com/enrichman/helm-charts/releases/download/simplepod-1.0.1/simplepod-1.0.1.tgz
     version: 1.0.1
-generated: "2022-05-23T15:47:43.694102694Z"
+generated: "2022-07-22T08:53:14.824952637Z"
