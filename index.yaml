@@ -129,6 +129,17 @@ entries:
     urls:
     - https://github.com/enrichman/helm-charts/releases/download/epinio-custom-application-0.0.1/epinio-custom-application-0.0.1.tgz
     version: 0.0.1
+  s3:
+  - apiVersion: v2
+    appVersion: 1.5.1
+    created: "2022-12-14T16:41:14.28426272Z"
+    description: A backing service for Epinio
+    digest: 56f948a999f67ddd0b43639e10b6b6d447cc35f2dc7cd5306545e73a44e1f36e
+    name: s3
+    type: application
+    urls:
+    - https://github.com/enrichman/helm-charts/releases/download/s3-0.1.1/s3-0.1.1.tgz
+    version: 0.1.1
   simplepod:
   - apiVersion: v2
     created: "2022-04-07T13:47:41.444065555Z"
@@ -151,4 +162,4 @@ entries:
     urls:
     - https://github.com/enrichman/helm-charts/releases/download/simplepod-1.0.1/simplepod-1.0.1.tgz
     version: 1.0.1
-generated: "2022-07-29T10:17:52.294341948Z"
+generated: "2022-12-14T16:41:14.284338428Z"
