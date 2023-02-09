@@ -174,6 +174,13 @@ entries:
     version: 1.0.1
   test-dependency:
   - apiVersion: v2
+    created: "2023-02-09T16:58:19.134834404Z"
+    digest: e0a73c63cbe5d901c5eacb0c6cce97e3c57c684017da7f1248192a917b7512ca
+    name: test-dependency
+    urls:
+    - https://github.com/enrichman/helm-charts/releases/download/test-dependency-0.0.2/test-dependency-0.0.2.tgz
+    version: 0.0.2
+  - apiVersion: v2
     created: "2023-02-09T16:50:04.455445783Z"
     digest: 891d4619537a7370fe452079b50a1b338b42a725fcd8f7361686a89921322ce1
     name: test-dependency
@@ -181,6 +188,13 @@ entries:
     - https://github.com/enrichman/helm-charts/releases/download/test-dependency-0.0.1/test-dependency-0.0.1.tgz
     version: 0.0.1
   test-main:
+  - apiVersion: v2
+    created: "2023-02-09T16:58:19.329042388Z"
+    digest: c64e585f7fe636e4264d061ff93077769758ce9db7d2059ca371bf06103d08bb
+    name: test-main
+    urls:
+    - https://github.com/enrichman/helm-charts/releases/download/test-main-0.0.3/test-main-0.0.3.tgz
+    version: 0.0.3
   - apiVersion: v2
     created: "2023-02-09T16:52:35.734941463Z"
     digest: c1003bca5e4d5803f9cc2a48a41a1ea59f570e8c856bf31091e7c6fdd226d48d
@@ -195,4 +209,4 @@ entries:
     urls:
     - https://github.com/enrichman/helm-charts/releases/download/test-main-0.0.1/test-main-0.0.1.tgz
     version: 0.0.1
-generated: "2023-02-09T16:52:35.734988263Z"
+generated: "2023-02-09T16:58:19.329198789Z"
