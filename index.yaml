@@ -182,10 +182,17 @@ entries:
     version: 0.0.1
   test-main:
   - apiVersion: v2
+    created: "2023-02-09T16:52:35.734941463Z"
+    digest: c1003bca5e4d5803f9cc2a48a41a1ea59f570e8c856bf31091e7c6fdd226d48d
+    name: test-main
+    urls:
+    - https://github.com/enrichman/helm-charts/releases/download/test-main-0.0.2/test-main-0.0.2.tgz
+    version: 0.0.2
+  - apiVersion: v2
     created: "2023-02-09T15:46:12.416835495Z"
     digest: c4553c8c716f85ab85274d4e6cc9855801ef0103831ca4d98d92fdc2aa783875
     name: test-main
     urls:
     - https://github.com/enrichman/helm-charts/releases/download/test-main-0.0.1/test-main-0.0.1.tgz
     version: 0.0.1
-generated: "2023-02-09T16:50:04.455679082Z"
+generated: "2023-02-09T16:52:35.734988263Z"
