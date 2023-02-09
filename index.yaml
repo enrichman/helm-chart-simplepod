@@ -172,6 +172,14 @@ entries:
     urls:
     - https://github.com/enrichman/helm-charts/releases/download/simplepod-1.0.1/simplepod-1.0.1.tgz
     version: 1.0.1
+  test-dependency:
+  - apiVersion: v2
+    created: "2023-02-09T16:50:04.455445783Z"
+    digest: 891d4619537a7370fe452079b50a1b338b42a725fcd8f7361686a89921322ce1
+    name: test-dependency
+    urls:
+    - https://github.com/enrichman/helm-charts/releases/download/test-dependency-0.0.1/test-dependency-0.0.1.tgz
+    version: 0.0.1
   test-main:
   - apiVersion: v2
     created: "2023-02-09T15:46:12.416835495Z"
@@ -180,4 +188,4 @@ entries:
     urls:
     - https://github.com/enrichman/helm-charts/releases/download/test-main-0.0.1/test-main-0.0.1.tgz
     version: 0.0.1
-generated: "2023-02-09T15:46:12.416912698Z"
+generated: "2023-02-09T16:50:04.455679082Z"
