@@ -152,6 +152,13 @@ entries:
     version: 0.1.1
   simplepod:
   - apiVersion: v2
+    created: "2023-02-23T13:50:49.517625826Z"
+    digest: 4b4f63ceffa94b86f4d89f9b8f4171e64e524d3c6e158da9f5dd7fd2b70cd59c
+    name: simplepod
+    urls:
+    - https://github.com/enrichman/helm-charts/releases/download/simplepod-1.0.4-rc1/simplepod-1.0.4-rc1.tgz
+    version: 1.0.4-rc1
+  - apiVersion: v2
     created: "2022-04-07T13:47:41.444065555Z"
     digest: 98c727cffe69e8c07b82720f22455047848de2929015b14f16e5b4b37b211c94
     name: simplepod
@@ -209,4 +216,4 @@ entries:
     urls:
     - https://github.com/enrichman/helm-charts/releases/download/test-main-0.0.1/test-main-0.0.1.tgz
     version: 0.0.1
-generated: "2023-02-09T16:58:19.329198789Z"
+generated: "2023-02-23T13:50:49.517738425Z"
