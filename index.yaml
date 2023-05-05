@@ -152,6 +152,13 @@ entries:
     version: 0.1.1
   simplejob:
   - apiVersion: v2
+    created: "2023-05-05T13:26:52.769239327Z"
+    digest: 24ea459ab32e1812e3df8fb05d2d7a2437ee1708b6ca55f705a84cf12213c648
+    name: simplejob
+    urls:
+    - https://github.com/enrichman/helm-charts/releases/download/simplejob-0.0.2/simplejob-0.0.2.tgz
+    version: 0.0.2
+  - apiVersion: v2
     created: "2023-05-05T13:18:29.842964025Z"
     digest: d26c2965012c938779ca9d6b6452f94665914bd042740cfb88818c0d10e655ab
     name: simplejob
@@ -224,4 +231,4 @@ entries:
     urls:
     - https://github.com/enrichman/helm-charts/releases/download/test-main-0.0.1/test-main-0.0.1.tgz
     version: 0.0.1
-generated: "2023-05-05T13:18:29.843022926Z"
+generated: "2023-05-05T13:26:52.769451328Z"
