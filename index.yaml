@@ -131,6 +131,13 @@ entries:
     version: 0.0.1
   predelete:
   - apiVersion: v2
+    created: "2023-07-10T10:20:37.317166374Z"
+    digest: 1791423197cd2609533883fd52ce3fc328ac01d99214b74f4a51be81ee8a3cd8
+    name: predelete
+    urls:
+    - https://github.com/enrichman/helm-charts/releases/download/predelete-0.0.2/predelete-0.0.2.tgz
+    version: 0.0.2
+  - apiVersion: v2
     created: "2023-07-10T10:13:55.602997436Z"
     digest: b9be431b8eae491ac4b11b35a06e177f95e2aa604e90d5a907c90d1d5fa97eef
     name: predelete
@@ -239,4 +246,4 @@ entries:
     urls:
     - https://github.com/enrichman/helm-charts/releases/download/test-main-0.0.1/test-main-0.0.1.tgz
     version: 0.0.1
-generated: "2023-07-10T10:13:55.603078836Z"
+generated: "2023-07-10T10:20:37.317236775Z"
