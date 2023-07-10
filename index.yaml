@@ -129,6 +129,14 @@ entries:
     urls:
     - https://github.com/enrichman/helm-charts/releases/download/epinio-custom-application-0.0.1/epinio-custom-application-0.0.1.tgz
     version: 0.0.1
+  predelete:
+  - apiVersion: v2
+    created: "2023-07-10T10:13:55.602997436Z"
+    digest: b9be431b8eae491ac4b11b35a06e177f95e2aa604e90d5a907c90d1d5fa97eef
+    name: predelete
+    urls:
+    - https://github.com/enrichman/helm-charts/releases/download/predelete-0.0.1/predelete-0.0.1.tgz
+    version: 0.0.1
   s3:
   - apiVersion: v2
     appVersion: 1.5.1
@@ -231,4 +239,4 @@ entries:
     urls:
     - https://github.com/enrichman/helm-charts/releases/download/test-main-0.0.1/test-main-0.0.1.tgz
     version: 0.0.1
-generated: "2023-05-05T13:26:52.769451328Z"
+generated: "2023-07-10T10:13:55.603078836Z"
